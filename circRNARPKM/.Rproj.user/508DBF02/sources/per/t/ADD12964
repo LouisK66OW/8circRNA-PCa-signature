@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601136464106.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2816173249",
+    "id" : "ADD12964",
+    "lastKnownWriteTime" : 1601137391,
+    "last_content_update" : 1601137391036,
+    "path" : "J:/circ备份/circRNARPKM/Risk factor association diagram.R",
+    "project_path" : "Risk factor association diagram.R",
+    "properties" : {
+        "cursorPosition" : "116,33",
+        "scrollLine" : "104",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

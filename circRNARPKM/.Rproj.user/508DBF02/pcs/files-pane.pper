@@ -1,0 +1,13 @@
+{
+    "path" : "J:/circ备份/circRNARPKM",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 4
+        },
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

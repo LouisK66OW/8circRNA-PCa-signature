@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601135814893.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4039468932",
+    "id" : "712AA688",
+    "lastKnownWriteTime" : 1601136088,
+    "last_content_update" : 1601136088068,
+    "path" : "J:/circ备份/circRNARPKM/pheatmap.R",
+    "project_path" : "pheatmap.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

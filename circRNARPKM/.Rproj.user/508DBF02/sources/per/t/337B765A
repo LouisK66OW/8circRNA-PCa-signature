@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601137397655.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "430938557",
+    "id" : "337B765A",
+    "lastKnownWriteTime" : 1601137552,
+    "last_content_update" : 1601137552828,
+    "path" : "J:/circ备份/circRNARPKM/nomogram.R",
+    "project_path" : "nomogram.R",
+    "properties" : {
+        "cursorPosition" : "16,18",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

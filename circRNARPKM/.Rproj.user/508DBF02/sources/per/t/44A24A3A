@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600791264462.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2875771176",
+    "id" : "44A24A3A",
+    "lastKnownWriteTime" : 1601134205,
+    "last_content_update" : 1601134205501,
+    "path" : "J:/circ备份/circRNARPKM/LOG_COX.R",
+    "project_path" : "LOG_COX.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
