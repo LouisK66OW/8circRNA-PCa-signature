@@ -52,11 +52,11 @@ if(T){
   DESeq2_DEG = na.omit(DEG)
   
   nrDEG=DESeq2_DEG[,c(2,6)]
-  colnames(nrDEG)=c('log2FoldChange','pvalue')  
+  colnames(nrDEG)=c('log2FoldChange','padj')  
   
   #set logFC cutoff-value
   logFC_cutoff = 1
-  nrDEG$change = as.factor(ifelse(nrDEG$pvalue < 0.05 & abs(nrDEG$log2FoldChange) > logFC_cutoff,
+  nrDEG$change = as.factor(ifelse(nrDEG$padj < 0.05 & abs(nrDEG$log2FoldChange) > logFC_cutoff,
                                      ifelse(nrDEG$log2FoldChange > logFC_cutoff ,'UP','DOWN'),'NOT'))
   
   nrDEG$Group = "not-significant"
