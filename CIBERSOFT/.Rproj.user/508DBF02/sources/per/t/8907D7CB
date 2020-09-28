@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601284297709.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2037588393",
+    "id" : "8907D7CB",
+    "lastKnownWriteTime" : 1601286286,
+    "last_content_update" : 1601286286123,
+    "path" : "J:/circ备份/MY_CIBERSOFT/Cibersoft.R",
+    "project_path" : "Cibersoft.R",
+    "properties" : {
+        "cursorPosition" : "77,69",
+        "scrollLine" : "58",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
